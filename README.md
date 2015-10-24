@@ -1,6 +1,6 @@
-= emacs|labs
+# emacs|labs
 
-== Who we are & what we do?
+## Who we are & what we do?
 
 We love emacs and we develop functions in emacs lisp, 
 as a way of research and development in emacs culture.
